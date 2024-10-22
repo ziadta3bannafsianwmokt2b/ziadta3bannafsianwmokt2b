@@ -1,0 +1,32 @@
+```d
+client.on("messageCreate", message => { 
+ if(message.content === prefix ! `ping`) {
+   message.channel.send(` > **█▓▓▓▓▓▓▓▓▓▓▓▓▓**`).then(m => {
+      m.edit(` > **███▓▓▓▓▓▓▓▓▓▓▓**`).then(m => {
+        m.edit(` > **███▓▓▓▓▓▓▓▓▓▓▓**`).then(m => {
+          m.edit(` > **█████▓▓▓▓▓▓▓▓▓**`).then(m => {
+            m.edit(` > **██████▓▓▓▓▓▓▓▓**`).then(m => {
+              m.edit(` > **███████▓▓▓▓▓▓▓**`).then(m => {
+                m.edit(` > **█████████▓▓▓▓▓**`).then(m => {
+                  m.edit(` > **██████████▓▓▓▓**`).then(m => {
+                    m.edit(` > **████████████▓▓▓**`).then(m => {
+                      m.edit(` > **███████████████**`).then(m => {
+                        m.edit(`\`\`\`javascript\nTime taken: ${m.createdTimestamp - message.createdTimestamp} ms.\nDiscord API: ${Math.round(client.ws.ping)} ms.\`\`\``)
+                      });
+                    });
+                  });
+                });
+              });
+            });
+          });
+        });
+      });
+    });
+ }
+
+#Description:  Ping  بطريقة جديده مطور
+# Note: وقت الفضي  
+# Version:V14 , V13
+#Made: <@877717735801487360>
+ziad_amr111
+```
