@@ -1,7 +1,5 @@
-## Hi there 👋
 
-<!--
-**ziadta3bannafsianwmokt2b/ziadta3bannafsianwmokt2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ziadta3bannafsianwmokt2b/ziadta3bannafsianwmokt2b**
 ## 🔗 Links
 [![Premiuma Bot Support](https://dcbadge.limes.pink/api/server/KXGnFx4TDK)](https://discord.gg/KXGnFx4TDK)
 
