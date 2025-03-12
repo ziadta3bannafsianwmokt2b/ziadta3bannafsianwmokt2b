@@ -1,3 +1,10 @@
+<div align="center" style="margin-top: 50px;">
+  <p>
+    <a href="https://discord.gg/KXGnFx4TDK">
+      <img src="http://invidget.switchblade.xyz/hTkzz2ZzJA" alt="Discord Server"/>
+    </a>
+  </p>
+</div>
 <a href="https://discord.com/users/877717735801487360"><img src="https://lanyard.cnrad.dev/api/877717735801487360?idleMessage=%D9%88%D9%84%D8%A7%20%D8%AD%D8%A7%D8%AC%D9%87&showDisplayName=true&theme=dark" /></a>
 #
 <div align="center">
