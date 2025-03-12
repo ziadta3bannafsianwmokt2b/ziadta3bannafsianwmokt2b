@@ -33,3 +33,21 @@
   <h2>💻 Languages And Tools</h2>
     <img src="https://skillicons.dev/icons?i=js,vscode,npm,nodejs,github,discordjs,bots,discord" alt="My Languages"/>
 </div>
+<div align="center" style="margin-top: 50px;">
+  <h2> 💌 Support </h2>
+  <p>
+    <a href="https://github.com/ziadta3bannafsianwmokt2b">
+      <img src="https://img.shields.io/github/followers/ziadta3bannafsianwmokt2b?label=Follow&style=social" alt="GitHub Follow"/>
+    </a>
+  </p>
+#
+</div>
+<div align="center">
+   <h2>👨‍🏫 Profile Vistors</h2>
+  <img src="https://profile-counter.glitch.me/ziadta3bannafsianwmokt2b/count.svg" alt="Vistors"/>
+</div>
+#
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=ziadta3bannafsianwmokt2b&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
+</div>
