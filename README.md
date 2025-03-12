@@ -1,4 +1,4 @@
-<a href="https://discord.com/users/877717735801487360"><img src="https://lanyard.cnrad.dev/api/877717735801487360" /></a>
+<a href="https://discord.com/users/877717735801487360"><img src="https://lanyard.cnrad.dev/api/877717735801487360?idleMessage=%D9%88%D9%84%D8%A7%20%D8%AD%D8%A7%D8%AC%D9%87&showDisplayName=true&theme=dark" /></a>
 #
 <div align="center">
   <h2>🔥 The projects I am proud of</h2>
