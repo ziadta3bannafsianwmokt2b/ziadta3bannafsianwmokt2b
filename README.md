@@ -24,7 +24,5 @@
 </div>
 <div align="center">
   <h2>💻 Skills</h2>
-    <img src="[Tools And Languages](https://skillicons.dev/icons?i=js,vscode,npm,nodejs,github,discordjs,bots,discord)" alt="tools"/>
-</p>
+    <img src="https://skillicons.dev/icons?i=js,vscode,npm,nodejs,github,discordjs,bots,discord" alt="My Languages"/>
 </div>
-#
