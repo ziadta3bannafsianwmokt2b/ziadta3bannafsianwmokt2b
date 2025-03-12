@@ -19,15 +19,6 @@
   </p>
 </div>
 #
-<div align="center">
-  <h2>🔨 Languages and Tools</h2>
-  <p>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon">
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.JS Icon">
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git Icon">
-
-  </p>
-#
 </div>
 <div align="center">
   <h2>💻 Skills</h2>
