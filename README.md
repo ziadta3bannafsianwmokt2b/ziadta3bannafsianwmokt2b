@@ -1,7 +1,7 @@
 <div align="center" style="margin-top: 50px;">
   <p>
     <a href="https://discord.gg/KXGnFx4TDK">
-      <img src="http://invidget.switchblade.xyz/hTkzz2ZzJA" alt="Discord Server"/>
+      <img src="http://invidget.switchblade.xyz/KXGnFx4TDK" alt="Discord Server"/>
     </a>
   </p>
 </div>
