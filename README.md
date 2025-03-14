@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8677683b-05fb-493b-8289-48eb5e900d36/deploy-status)](https://app.netlify.com/sites/7220-portfolio/deploys)
 <div align="center" style="margin-top: 50px;">
   <p>
     <a href="https://discord.gg/KXGnFx4TDK">
