@@ -7,7 +7,7 @@
   </p>
 </div>
 <a href="https://discord.com/users/877717735801487360"><img src="https://lanyard.cnrad.dev/api/877717735801487360?idleMessage=%D9%88%D9%84%D8%A7%20%D8%AD%D8%A7%D8%AC%D9%87&showDisplayName=true&theme=dark" /></a>
-#
+
 <div align="center">
   <h2>🔥 The projects I am proud of</h2>
   <p>
@@ -19,7 +19,7 @@
     </a>
   </p>
 </div>
-#
+
 <div align="center">
   <h2>📊 Stats</h2>
   <p>
@@ -28,7 +28,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadta3bannafsianwmokt2b&layout=pie&theme=dark" alt="top-langs"/>
   </p>
 </div>
-#
+
 </div>
 <div align="center">
   <h2>💻 Languages And Tools</h2>
@@ -41,13 +41,13 @@
       <img src="https://img.shields.io/github/followers/ziadta3bannafsianwmokt2b?label=Follow&style=social" alt="GitHub Follow"/>
     </a>
   </p>
-#
+
 </div>
 <div align="center">
    <h2>👨‍🏫 Profile Vistors</h2>
   <img src="https://profile-counter.glitch.me/ziadta3bannafsianwmokt2b/count.svg" alt="Vistors"/>
 </div>
-#
+
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=ziadta3bannafsianwmokt2b&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
