@@ -6,7 +6,7 @@
     </a>
   </p>
 </div>
-[![Discord Presence](https://lanyard.cnrad.dev/api/1356395014141378571?bg=%20880808&borderRadius=&showDisplayName=true&theme=dark&ignoreAppId=&idleMessage=%D9%88%D9%84%D8%A7%20%D8%AD%D8%A7%D8%AC%D9%87)](https://discord.com/users/1356395014141378571)
+<a href="https://discord.com/users/1356395014141378571"><img src="https://lanyard.cnrad.dev/api/1356395014141378571?bg=%20880808&borderRadius=&showDisplayName=true&theme=dark&ignoreAppId=&idleMessage=%D9%88%D9%84%D8%A7%20%D8%AD%D8%A7%D8%AC%D9%87" /></a>
 
 <div align="center">
   <h2>🔥 The projects I am proud of</h2>
