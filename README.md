@@ -8,6 +8,7 @@
 </div>
 <a href="https://discord.com/users/1356395014141378571"><img src="https://lanyard.cnrad.dev/api/1356395014141378571?idleMessage=%D9%88%D9%84%D8%A7%20%D8%AD%D8%A7%D8%AC%D9%87&showDisplayName=true&theme=dark" /></a>
 
+{"data":{"kv":{},"discord_user":{"id":"1356395014141378571","username":"72.20.","avatar":"d7cd3b4ec3806763672fcd31dfb1bf65","discriminator":"0","clan":null,"avatar_decoration_data":null,"bot":false,"global_name":"芯 - 72.20","primary_guild":null,"collectibles":null,"display_name":"芯 - 72.20","public_flags":4194432},"activities":[{"id":"custom","name":"Custom Status","type":4,"state":"حلمك ياعمر يا لطفي حقيقه واسم الاهلي مالي الكون حلمك بيكبر كل دقيقه شوف بقينا كام مليون . ١١٨ سنه اهلي","created_at":1745616555649}],"discord_status":"dnd","active_on_discord_web":true,"active_on_discord_desktop":false,"active_on_discord_mobile":false,"listening_to_spotify":false,"spotify":null},"success":true}
 <div align="center">
   <h2>🔥 The projects I am proud of</h2>
   <p>
